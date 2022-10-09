@@ -20,12 +20,12 @@ div.img-perfil{
   header ul{
     text-transform:     uppercase; /* transforma o texto em maiúcula ou minuscula */
   }
-  header nav li{
+  header nav li {
     color:              white;
     text-align:         center;
-    width:              8%;
+    width:              162px;
+    padding:            10px 50px;
     display:            inline-block; /* alinha a lista na mesma linha */
-    padding:            10px 60px;
   }
   header nav li:hover{
     color:              rgb(0, 0, 0);
@@ -103,7 +103,7 @@ img.profile{
 }
 img.user{
   padding:            1%;
-  width:              100%;
+  width:              300px;
 }
 img.logo{
   max-width:          100px;
